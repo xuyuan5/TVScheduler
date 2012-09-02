@@ -1,0 +1,6 @@
+config.php
+session
+*.back
+*.bak
+*.log
+tvguide.xml
