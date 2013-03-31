@@ -4,3 +4,6 @@ session
 *.bak
 *.log
 tvguide.xml
+*.sln
+*.suo
+*.phpproj
